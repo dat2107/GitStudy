@@ -1,0 +1,5 @@
+1. Khởi tạo kho chứa: Repository
+    git init: tạo ở file local
+2. Đưa vào kho chứa
+    git add . : đưa tất cả file vào Stagging Area 
+    
